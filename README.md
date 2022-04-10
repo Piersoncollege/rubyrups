@@ -1,1 +1,3 @@
-# Niki1456.github.io-boek
+Student work: building a story with homemade artwork
+
+![Artwork Ruby Rups](untitled_Artwork.png)
